@@ -2,7 +2,7 @@ import React from "react";
 import { useNavigation } from "@react-navigation/native";
 import { View, Image } from "react-native";
 
-import { COLORS, SIZES, SHADOWS, assets } from "../constants";
+import { COLORS, SIZES, SHADOWS, assets } from "../Constants";
 import { SubInfo, EthPrice, NFTTitle } from "./SubInfo";
 import { RectButton, CircleButton } from "./Button";
 
